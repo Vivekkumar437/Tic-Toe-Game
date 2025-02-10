@@ -1,1 +1,1 @@
-This is an TIC TOE GAME Which we ply using pen and paper.
+This is an TIC TOE GAME Which we play using pen and paper.
